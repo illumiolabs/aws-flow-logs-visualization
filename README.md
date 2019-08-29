@@ -4,6 +4,7 @@
 [![License](images/license.svg)](LICENSE)
 
 **Project Description**
+
 This repository contains a Lambda function that will  
 1. Ingest VPC traffic flows and 
 1. Exports traffic flows to Illumio ASP. 
@@ -11,6 +12,7 @@ Illumio ASP builds the Application Dependency Map that helps visualize the traff
 and in understanding the application dependencies.
 
 **Project Technology stack** 
+
 This project uses the AWS Lambda Ruby2.5 runtime
 
 **Project workflow** 
