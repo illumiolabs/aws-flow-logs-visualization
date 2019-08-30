@@ -10,9 +10,9 @@ For our Lambda function to work, we would need the programming capabilities of I
       1. Click Add from the top.
       1. Fill in the form and click save to generate the credentials.
       1. Download the credentials as this is the only time you will be able to download the credentials.
-1. We will create an Illumio Unmanaged workload for every EC2 instance we would like to visualize the flow for. 
+   1. We will create an Illumio Unmanaged workload for every EC2 instance we would like to visualize the flow for. 
 You could look for the steps to create unmanaged workload from Illumio ASP “PCE Web Console Users Guide”. 
-Link to documentation page herehttps://support.illumio.com/public/documentation/index.html
+Link to documentation page here https://support.illumio.com/public/documentation/index.html
 
 1. AWS Cloud
    1. CloudWatch console
