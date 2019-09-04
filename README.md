@@ -42,5 +42,5 @@ Instructions on how to contribute:  [CONTRIBUTING](CONTRIBUTING.md).
 
 ## Links
 
- * Screencast showing the Lambda working https://labs.illumio.com
+ * Screencast demonstrating the project https://labs.illumio.com/demystify-aws-cloud-workload-security-by-visualizing-connectivity-and-security-policy
  * Illumio documentation page for configuring Illumio ASP https://support.illumio.com/public/documentation/index.html
