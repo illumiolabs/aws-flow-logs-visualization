@@ -24,10 +24,6 @@ This project uses the AWS Lambda Ruby2.5 runtime
 Detailed instructions on how to install, configure, and get the project running are mentioned 
 in [INSTALL](INSTALL.md) document.
 
-## Demo
-
-[![IMAGE ALT TEXT](https://embedwistia-a.akamaihd.net/deliveries/9374fd7dd4abdf9ab05adb84327e7553.jpg)](https://illum.wistia.com/medias/69iw36efz4 "Visualizing AWS Cloud Workload")
-
 ## Support
 
 The AWS Lambda Function is released and distributed as open source software subject to the [LICENSE](LICENSE). 
