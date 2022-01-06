@@ -3,11 +3,10 @@
 [![Slack](images/slack.svg)](http://slack.illumiolabs.com)
 [![License](images/license.svg)](LICENSE)
 
-## Status 
+## Status
 
 IMPORTANT: This repository is no longer under active maintenance. If you are
-interested in integrating an Illumio ASP with a cloud provider, please see Illumio
-CloudSecure(https://www.illumio.com/products/cloudsecure).
+interested in securing your cloud environment please see [Illumio CloudSecure](https://www.illumio.com/products/cloudsecure).
 
 **Project Description**
 
