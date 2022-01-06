@@ -1,12 +1,12 @@
+# Status
+
+IMPORTANT: This repository is no longer under active maintenance. If you are
+interested in securing your cloud environment please see [Illumio CloudSecure](https://www.illumio.com/products/cloudsecure).
+
 # Visualizing AWS EC2 Traffic flows with Illumio ASP using AWS Lambda Function
 
 [![Slack](images/slack.svg)](http://slack.illumiolabs.com)
 [![License](images/license.svg)](LICENSE)
-
-## Status
-
-IMPORTANT: This repository is no longer under active maintenance. If you are
-interested in securing your cloud environment please see [Illumio CloudSecure](https://www.illumio.com/products/cloudsecure).
 
 **Project Description**
 
